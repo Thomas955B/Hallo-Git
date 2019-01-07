@@ -15,3 +15,6 @@ Make and commit changes
 3.In the editor, write a bit about yourself.
 4.Write a commit message that describes your changes.
 5.Click Commit changes button.
+
+
+These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that’s different from master.
